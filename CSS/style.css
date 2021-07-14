@@ -78,13 +78,14 @@ body{
 .all-players{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-row-gap: 30px ;
+    grid-row-gap: 35px ;
+    grid-column-gap: 50px;
     margin-left: 195px;
     margin-right: 195px;
 }
 
 .player{
-    width: 330px;
+
     height: 474px;
     background-color: white;
     text-align: center;
