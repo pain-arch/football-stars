@@ -194,6 +194,7 @@ input {
     color: white;
     border-radius: 20px;
     background-image: linear-gradient(to right, #E02C6D , #2D25A0);
+    cursor: pointer;
 }
 
 /**************************
