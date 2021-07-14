@@ -23,6 +23,9 @@
         margin: 15px auto;
         justify-items: center;
     }
+    .player{
+        width: 68%;
+    }
 
 
     .news{
